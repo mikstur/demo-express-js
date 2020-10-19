@@ -14,6 +14,7 @@ app.get("/api/data", (req, res) => {
       { id: 1, title: "Some data" },
       { id: 2, title: "Some other data" },
       { id: 3, title: "Testing" },
+      { id: 4, title: "Push Test" },
     ],
   });
 });
